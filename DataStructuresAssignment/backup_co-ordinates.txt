@@ -1,0 +1,6 @@
+WAREHOUSE : 0
+WAREHOUSE -> Stoke-on-Trent : 2
+WAREHOUSE -> Stoke-on-Trent -> Lichfield : 3
+WAREHOUSE -> Stafford : 4
+WAREHOUSE -> Stoke-on-Trent -> Lichfield -> Tamworth : 4
+WAREHOUSE -> Stoke-on-Trent -> Lichfield -> Tamworth -> Cannock : 6
