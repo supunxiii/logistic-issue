@@ -2,8 +2,6 @@
 
 LOGISTIC-ISSUE is a console-based Java application developed for **COMP50004-K-II - Data Structures and Algorithms**. The system models loading goods and managing deliveries for a logistics company using a carefully chosen set of data structures and algorithms. It stores operational data, generates essential outputs such as invoices, and includes documented logic with pseudocode, drawback analysis, and recommendations for future improvements.
 
-Designed and developed by Supun Wijesooriya in September 2023.
-
 ![Java 16](https://img.shields.io/badge/Java-16-007396?style=flat-square&logo=java&logoColor=white)
 
 ## Features
@@ -114,7 +112,7 @@ logistic-issue/
 
 This project was developed in **September 2023** by:
 
-- **Supun Wijesooriya** - Software Developer
+- **Supun Wijesooriya** - Developer
 
 ## Contributing
 
